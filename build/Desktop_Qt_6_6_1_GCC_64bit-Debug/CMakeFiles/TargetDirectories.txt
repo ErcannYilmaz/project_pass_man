@@ -1,0 +1,10 @@
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/password_manager.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/password_manager_qmlimportscan.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/password_manager_autogen_timestamp_deps.dir
+/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/password_manager_autogen.dir

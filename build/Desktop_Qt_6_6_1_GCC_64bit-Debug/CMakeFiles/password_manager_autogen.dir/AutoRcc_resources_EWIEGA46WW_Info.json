@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/password_manager_autogen",
+	"CMAKE_BINARY_DIR" : "/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/grazol/Projects/password_manager",
+	"CMAKE_SOURCE_DIR" : "/home/grazol/Projects/password_manager",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/password_manager_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/grazol/Projects/password_manager/assets/icons/refresh.svg",
+		"/home/grazol/Projects/password_manager/assets/icons/log-out.svg",
+		"/home/grazol/Projects/password_manager/assets/icons/account.svg"
+	],
+	"LOCK_FILE" : "/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/password_manager_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/grazol/Qt/6.6.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/grazol/Projects/password_manager/build/Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/password_manager_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/grazol/Projects/password_manager/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_password_manager_FILE /home/grazol/Projects/password_manager/build/Desktop_Qt_6_8_0-Profile/password_manager)

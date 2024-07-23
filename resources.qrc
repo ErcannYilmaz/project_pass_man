@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>assets/icons/account.svg</file>
+    <file>assets/icons/refresh.svg</file>
+    <file>assets/icons/log-out.svg</file>
+</qresource>
+</RCC>
